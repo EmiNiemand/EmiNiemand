@@ -51,9 +51,7 @@ games in Unreal Engine, Unity and OpenGL or music.
 
 <p align="center" style="width:100%">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=EmiNiemand&show_icons=true&theme=dark" height="200" />
-  <a href="https://github.com/EmiNiemand/GloomEngine">
-    <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmiNiemand&theme=dark" height="200"/>
-  </a>
+  <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmiNiemand&theme=dark" height="200"/>
 </p>
 
 ---
