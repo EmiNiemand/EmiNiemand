@@ -32,5 +32,30 @@ games in Unreal Engine, Unity and OpenGL or music.
 
 ---
 
+<h2 align="center"> Currently working on 🔨 </h2>
 
 
+<p align="center">
+  <a href="https://github.com/EmiNiemand/GloomEngine">
+    <img alt="GloomEngine" src="https://github-readme-stats.vercel.app/api/pin?username=EmiNiemand&repo=GloomEngine&theme=dark" />
+  </a>
+  <a href="[https://github.com/EmiNiemand/GloomEngine](https://github.com/EmiNiemand/GPGame)">
+    <img alt="GPG" src="https://github-readme-stats.vercel.app/api/pin?username=EmiNiemand&repo=GPGame&theme=dark" />
+  </a>
+</p>
+
+
+--- 
+
+<h2 align="center"> Statistics 📊 </h2>
+
+<p align="center" style="width:100%">
+  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=EmiNiemand&show_icons=true&theme=dark" height="200" />
+  <a href="https://github.com/EmiNiemand/GloomEngine">
+    <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmiNiemand&theme=dark" height="200"/>
+  </a>
+</p>
+
+---
+
+<h2 align="center"> My works 🤖 </h2>
