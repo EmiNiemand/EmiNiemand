@@ -59,3 +59,15 @@ games in Unreal Engine, Unity and OpenGL or music.
 ---
 
 <h2 align="center"> My works 🤖 </h2>
+
+<p align="center">
+  <img alt="WindmillDay" width="40%" src="res/DayWindmill.png" />
+  <img alt="WindmillNight" width="40%" src="res/NightWindmill.png" />
+</p>
+
+<p align="center">
+  <img alt="Hero1Short" width="20%" src="res/Hero1-short.gif" />
+  <img alt="Hero1Long" width="20%" src="res/Hero1-long.gif" />
+  <img alt="Hero2Short" width="20%" src="res/Hero2-short.gif" />
+  <img alt="Hero2Long" width="20%" src="res/Hero2-long.gif" />
+</p>
