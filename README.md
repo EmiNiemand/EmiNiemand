@@ -15,9 +15,9 @@ games in Unreal Engine, Unity and OpenGL or music.
 
 <h2 align="center"> Languages and tools 🧰 </h2>
 
-<img alt="C++" width="30px" style="display: inline-block; background-color: black;"src="https://cdn.worldvectorlogo.com/logos/c.svg" />
+<img alt="C++" width="30px" style="display: inline-block; background-color: black;" src="https://cdn.worldvectorlogo.com/logos/c.svg" />
 <img alt="C#" width="30px" style="display: inline-block; background-color: black;" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />
-<img alt="Python" width="30px" style="display: inline-block; background-color: black;"src="https://cdn.worldvectorlogo.com/logos/python-5.svg" />
+<img alt="Python" width="30px" style="display: inline-block; background-color: black;" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" />
 <img alt="GitHub" width="30px" style="display: inline-block; background-color: black;" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" />
 <img alt="Unreal Engine" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/unreal-1.svg" />
 <img alt="Unity" width="30px" style="display: inline-block; background-color: black;" src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" />
