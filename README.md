@@ -15,19 +15,44 @@ games in Unreal Engine, Unity and OpenGL or music.
 
 <h2 align="center"> Languages and tools 🧰 </h2>
 
-<img alt="C++" width="30px" style="display: inline-block; background-color: white;" src="https://cdn.worldvectorlogo.com/logos/c.svg" />
-<img alt="C#" width="30px" style="display: inline-block; background-color: white;" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />
-<img alt="Python" width="30px" style="display: inline-block; background-color: white;" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" />
-<img alt="GitHub" width="30px" style="display: inline-block; background-color: white;" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" />
-<img alt="Unreal Engine" width="30px" style="display: inline-block; background-color: white;" src="https://cdn.worldvectorlogo.com/logos/unreal-1.svg" />
-<img alt="Unity" width="30px" style="display: inline-block; background-color: white;" src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" />
-<img alt="JetBrains" width="30px" style="display: inline-block; background-color: white;" src="https://cdn.worldvectorlogo.com/logos/jetbrains-1.svg" />
-<img alt="Blender" width="30px" style="display: inline-block; background-color: white;" src="https://cdn.worldvectorlogo.com/logos/blender-2.svg" />
-<img alt="SubstancePainter" width="30px" style="display: inline-block; background-color: white;" src="https://cdn.worldvectorlogo.com/logos/substance-painter.svg" />
-<img alt="Piskel" width="30px" style="display: inline-block; background-color: white;" src="https://appsgeyser.io/geticon.php?widget=Piskel_14414264&width=512" />
-<img alt="Trello" width="30px" style="display: inline-block; background-color: white;" src="https://cdn.worldvectorlogo.com/logos/trello.svg" />
-<img alt="Jira" width="30px" style="display: inline-block; background-color: white;" src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" />
-
+<div style="display: block;">
+  <div style="display: inline-block; margin-left: auto; margin-right: auto;">
+    <img alt="C++" width="30px" style="background-color: white;" src="https://cdn.worldvectorlogo.com/logos/c.svg" />
+  </div>
+  <div style="display: inline-block; margin-left: auto; margin-right: auto;">
+    <img alt="C#" width="30px" style="background-color: white;" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />
+  </div>
+  <div style="display: inline-block; margin-left: auto; margin-right: auto;">
+    <img alt="Python" width="30px" style="background-color: white;" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" />
+  </div>
+  <div style="display: inline-block; margin-left: auto; margin-right: auto;">
+    <img alt="GitHub" width="30px" style="background-color: white;" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" />
+  </div>
+  <div style="display: inline-block; margin-left: auto; margin-right: auto;">
+    <img alt="Unreal Engine" width="30px" style="background-color: white;" src="https://cdn.worldvectorlogo.com/logos/unreal-1.svg" />
+  </div>
+  <div style="display: inline-block; margin-left: auto; margin-right: auto;">
+    <img alt="Unity" width="30px" style="background-color: white;" src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" />
+  </div>
+  <div style="display: inline-block; margin-left: auto; margin-right: auto;">
+    <img alt="JetBrains" width="30px" style="background-color: white;" src="https://cdn.worldvectorlogo.com/logos/jetbrains-1.svg" />
+  </div>
+  <div style="display: inline-block; margin-left: auto; margin-right: auto;">
+    <img alt="Blender" width="30px" style="background-color: white;" src="https://cdn.worldvectorlogo.com/logos/blender-2.svg" />
+  </div>
+  <div style="display: inline-block; margin-left: auto; margin-right: auto;">
+    <img alt="SubstancePainter" width="30px" style="background-color: white;" src="https://cdn.worldvectorlogo.com/logos/substance-painter.svg" />
+  </div>
+  <div style="display: inline-block; margin-left: auto; margin-right: auto;">
+    <img alt="Piskel" width="30px" style="background-color: white;" src="https://appsgeyser.io/geticon.php?widget=Piskel_14414264&width=512" />
+  </div>
+  <div style="display: inline-block; margin-left: auto; margin-right: auto;">
+    <img alt="Trello" width="30px" style="background-color: white;" src="https://cdn.worldvectorlogo.com/logos/trello.svg" />
+  </div>
+  <div style="display: inline-block; margin-left: auto; margin-right: auto;">
+    <img alt="Jira" width="30px" style="background-color: white;" src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" />
+  </div>
+</div>
 ---
 
 
