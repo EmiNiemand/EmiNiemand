@@ -39,9 +39,6 @@ games in Unreal Engine, Unity and OpenGL or music.
   <a href="https://github.com/EmiNiemand/GloomEngine">
     <img alt="GloomEngine" src="https://github-readme-stats.vercel.app/api/pin?username=EmiNiemand&repo=GloomEngine&theme=dark" />
   </a>
-  <a href="https://github.com/EmiNiemand/GPGame">
-    <img alt="GPG" src="https://github-readme-stats.vercel.app/api/pin?username=EmiNiemand&repo=GPGame&theme=dark" />
-  </a>
 </p>
 
 
