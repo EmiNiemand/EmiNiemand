@@ -5,9 +5,7 @@
 <h2 align="center"> About me 🧔‍♂️</h2>
 
 <div style="text-align: justify">
-I am a graduate of computer science in field of game development at Lodz University of Technology. 
-I am passionate about how games are created and technologies behind them. In my free time, I make
-games in Unreal Engine, Unity and OpenGL or music.
+I am a graduate of Computer Science in the field of game development from Lodz University of Technology. During my time at university, I gained and honed my programming skills. I learned OpenGL + GLSL, as well as the basics of Unity and Unreal Engine.
 
 </div>
 
