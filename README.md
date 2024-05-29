@@ -33,12 +33,6 @@ I am a graduate of Computer Science in the field of game development from Lodz U
 <h2 align="center"> Currently working on 🔨 </h2>
 
 
-<p align="center">
-  <a href="[https://github.com/EmiNiemand/I](https://github.com/EmiNiemand/ImageLightRegression)">
-    <img alt="ImageLightRegression" src="https://github-readme-stats.vercel.app/api/pin?username=EmiNiemand&repo=ImageLightRegression&theme=dark" />
-  </a>
-</p>
-
 
 --- 
 
